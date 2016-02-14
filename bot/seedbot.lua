@@ -223,6 +223,7 @@ function create_config( )
     "spam",
     "mainfucker",
     "set",
+    "tooti",
     "get",
     "broadcast",
     "download_media",
